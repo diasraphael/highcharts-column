@@ -1,7 +1,11 @@
 # highcharts-column
 High-charts: column: Customized column chart with 3 series
 
-working jsfiddle: https://jsfiddle.net/diasraphael88/s3L20buz/
+working jsfiddle: 
+
+https://jsfiddle.net/diasraphael88/s3L20buz/
+
+https://jsfiddle.net/diasraphael88/op07nuhj/
 
 ![col1](https://user-images.githubusercontent.com/6531851/44364236-bca1cb80-a4c6-11e8-9e6f-a5cd4518bd07.PNG)
 
